@@ -1,0 +1,19 @@
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\bin\Debug\KairosApp.exe.config
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\bin\Debug\KairosApp.exe
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\bin\Debug\KairosApp.pdb
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\obj\Debug\KairosApp.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\obj\Debug\KairosApp.Form1.resources
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\obj\Debug\KairosApp.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\obj\Debug\KairosApp.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\obj\Debug\KairosApp.exe
+c:\users\eric\documents\visual studio 2013\Projects\KairosApp\KairosApp\obj\Debug\KairosApp.pdb
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\bin\Debug\KairosApp.exe.config
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\obj\Debug\KairosApp.exe
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\obj\Debug\KairosApp.pdb
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\bin\Debug\KairosApp.exe
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\bin\Debug\KairosApp.pdb
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\obj\Debug\KairosApp.csprojResolveAssemblyReference.cache
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\obj\Debug\KairosApp.Form1.resources
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\obj\Debug\KairosApp.Properties.Resources.resources
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\obj\Debug\KairosApp.csproj.GenerateResource.Cache
+C:\Users\KarlF\Dropbox\KairosApp\KairosApp\obj\Debug\KairosApp.calendarForm.resources
